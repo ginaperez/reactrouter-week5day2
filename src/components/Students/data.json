@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "josh", "grade": "C" },
+    { "id": 2, "name": "Sean", "grade": "F" },
+    { "id": 3, "name": "Hunter", "grade": "D" },
+    { "id": 4, "name": "Travis", "grade": "C" },
+    { "id": 5, "name": "Zach", "grade": "B" },
+    { "id": 6, "name": "possibly you?", "grade": "A" }
+]
